@@ -5,7 +5,6 @@ private static boolean login() {
         System.out.print("Felhasználónév: ");
         String username = scanner.nextLine();
         System.out.print("Jelszó: ");
-        String password = scanner.nextLine();
 
     }
     return false;
